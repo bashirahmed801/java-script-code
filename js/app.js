@@ -145,12 +145,12 @@
 
 // function namee(user) {  
 
-//   var name= "abdullah"
-//   return name
+ var name= "abdullah"
+return name
 
-// }
-// namee()
-// console.log(namee())
+ }
+ namee(
+    console.log(namee())
 // var user = prompt("cheak square")
 // function square() {
 //   var result =  user*user
